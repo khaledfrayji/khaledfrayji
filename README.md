@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I am Khaled Frayji, a Senior Full-Stack Next.js Developer, Technical Mentor, and Founder of TechTalks. I specialize in designing and building scalable, high-performance web applications using Next.js, TypeScript, Tailwind CSS, MongoDB, and modern cloud-native architectures.<br><br>In addition to engineering, I lead TechTalks, a developer education and training platform focused on transforming motivated learners into industry-ready software engineers. Through structured bootcamps, internships, and real-world projects, I guide developers in mastering production-grade development workflows, including Git, CI/CD, system design, and collaborative engineering practices.<br><br>My work is driven by a strong commitment to technical excellence, clean architecture, and long-term maintainability. I focus on building systems that scale reliably while mentoring developers to think like professional engineers, not just coders.
 
 
